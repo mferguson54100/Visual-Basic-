@@ -1,0 +1,12 @@
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\bin\Debug\Loop_Review.exe.config
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\bin\Debug\Loop_Review.exe
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\bin\Debug\Loop_Review.pdb
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\bin\Debug\Loop_Review.xml
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\Loop_Review.vbprojResolveAssemblyReference.cache
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\WindowsApp1.Form1.resources
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\WindowsApp1.Resources.resources
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\Loop_Review.vbproj.GenerateResource.Cache
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\Loop_Review.exe
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\Loop_Review.xml
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\Loop_Review.pdb
+D:\CIS180-IntroProgramming\VisualBasic\Loop_Review\Loop_Review\obj\Debug\Loop_Review.vbproj.CoreCompileInputs.cache
